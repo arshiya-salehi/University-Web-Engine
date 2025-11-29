@@ -1,0 +1,1708 @@
+{
+  "test_metadata": {
+    "total_queries": 30,
+    "timestamp": "2025-11-28 18:40:20"
+  },
+  "queries": {
+    "cristina lopes": {
+      "query": "cristina lopes",
+      "category": "good",
+      "expected": "faculty profile",
+      "num_results": 10,
+      "query_time_ms": 41.030168533325195,
+      "results": [
+        {
+          "rank": 1,
+          "url": "https://www.informatics.uci.edu/explore/faculty-profiles/cristina-lopes/",
+          "score": 51.86010893257086
+        },
+        {
+          "rank": 2,
+          "url": "https://www.informatics.uci.edu/2017/01/",
+          "score": 38.4467996808213
+        },
+        {
+          "rank": 3,
+          "url": "https://www.informatics.uci.edu/2017/10/",
+          "score": 38.4467996808213
+        },
+        {
+          "rank": 4,
+          "url": "https://www.informatics.uci.edu/2017/08/",
+          "score": 38.4467996808213
+        },
+        {
+          "rank": 5,
+          "url": "https://www.informatics.uci.edu/lopes-featured-speaker-at-2016-opensimulator-community-conference/",
+          "score": 32.89734483984688
+        },
+        {
+          "rank": 6,
+          "url": "https://www.informatics.uci.edu/lopes-analyzes-big-code-with-funding-from-darpa/",
+          "score": 32.89734483984688
+        },
+        {
+          "rank": 7,
+          "url": "https://www.informatics.uci.edu/lopes-honored-with-2017-aito-test-of-time-award/",
+          "score": 32.280296850986275
+        },
+        {
+          "rank": 8,
+          "url": "https://www.informatics.uci.edu/very-top-footer-menu-items/news/page/32/",
+          "score": 28.837901213565207
+        },
+        {
+          "rank": 9,
+          "url": "https://www.informatics.uci.edu/very-top-footer-menu-items/news/page/24/",
+          "score": 28.837901213565207
+        },
+        {
+          "rank": 10,
+          "url": "https://www.informatics.uci.edu/very-top-footer-menu-items/news/page/23/",
+          "score": 28.837901213565207
+        }
+      ]
+    },
+    "machine learning": {
+      "query": "machine learning",
+      "category": "good",
+      "expected": "ML research",
+      "num_results": 10,
+      "query_time_ms": 33.72001647949219,
+      "results": [
+        {
+          "rank": 1,
+          "url": "https://www.cs.uci.edu/singh-to-deliver-machine-learning-talk-at-july-oc-acm-meetup/",
+          "score": 26.957223135264055
+        },
+        {
+          "rank": 2,
+          "url": "https://www.cs.uci.edu/news/",
+          "score": 25.27484921704146
+        },
+        {
+          "rank": 3,
+          "url": "https://www.cs.uci.edu/professor-singh-awarded-two-nsf-grants-to-advance-machine-learning/",
+          "score": 25.07821007876957
+        },
+        {
+          "rank": 4,
+          "url": "https://www.cs.uci.edu/news/page/16/",
+          "score": 24.811553485800204
+        },
+        {
+          "rank": 5,
+          "url": "https://www.cs.uci.edu/multidisciplinary-graduate-training-program-advances-wildfire-prediction-research/",
+          "score": 24.614914347528316
+        },
+        {
+          "rank": 6,
+          "url": "https://www.cs.uci.edu/cylance-commits-50k-to-ucis-center-for-machine-learning-and-intelligent-systems-to-support-seminar-series-ph-d-recruitment/",
+          "score": 22.823487912944277
+        },
+        {
+          "rank": 7,
+          "url": "https://www.cs.uci.edu/faculty/",
+          "score": 22.70832629872771
+        },
+        {
+          "rank": 8,
+          "url": "https://www.cs.uci.edu/ics-researchers-advance-machine-learning-with-self-taught-algorithm-that-solves-the-rubiks-cube/",
+          "score": 22.680020586173622
+        },
+        {
+          "rank": 9,
+          "url": "https://www.cs.uci.edu/news/page/8/",
+          "score": 22.534132950978442
+        },
+        {
+          "rank": 10,
+          "url": "https://www.cs.uci.edu/news/page/2/",
+          "score": 21.031818281447215
+        }
+      ]
+    },
+    "ACM": {
+      "query": "ACM",
+      "category": "good",
+      "expected": "ACM related content",
+      "num_results": 10,
+      "query_time_ms": 14.175891876220703,
+      "results": [
+        {
+          "rank": 1,
+          "url": "https://www.informatics.uci.edu/two-ics-professors-named-2015-acm-fellows/",
+          "score": 29.43590626600623
+        },
+        {
+          "rank": 2,
+          "url": "https://www.informatics.uci.edu/ics-alumni-named-to-acm-future-of-computing-academy/",
+          "score": 27.361540904540938
+        },
+        {
+          "rank": 3,
+          "url": "https://www.informatics.uci.edu/update-franz-dourish-formally-recognized-as-acm-fellows/",
+          "score": 26.72409130261993
+        },
+        {
+          "rank": 4,
+          "url": "https://www.informatics.uci.edu/informatics-professors-weave-sustainability-into-the-fabric-of-computing-with-comm-acm-paper/",
+          "score": 25.23167183338263
+        },
+        {
+          "rank": 5,
+          "url": "https://www.informatics.uci.edu/informatics-ph-d-student-saumya-gupta-receives-acm-w-scholarship-for-tei-19/",
+          "score": 24.338592696954468
+        },
+        {
+          "rank": 6,
+          "url": "https://www.informatics.uci.edu/jones-receives-acm-sigsoft-impact-paper-award/",
+          "score": 24.338592696954468
+        },
+        {
+          "rank": 7,
+          "url": "https://www.informatics.uci.edu/mark-elected-to-acm-chi-academy-for-2017/",
+          "score": 22.725662604576236
+        },
+        {
+          "rank": 8,
+          "url": "https://www.informatics.uci.edu/informatics-ph-d-student-to-present-at-acm-dev-2015/",
+          "score": 22.725662604576236
+        },
+        {
+          "rank": 9,
+          "url": "https://www.informatics.uci.edu/2017/06/",
+          "score": 22.08821300265523
+        },
+        {
+          "rank": 10,
+          "url": "https://www.cs.uci.edu/singh-to-deliver-machine-learning-talk-at-july-oc-acm-meetup/",
+          "score": 22.08821300265523
+        }
+      ]
+    },
+    "master of software engineering": {
+      "query": "master of software engineering",
+      "category": "good",
+      "expected": "MSWE program",
+      "num_results": 10,
+      "query_time_ms": 54.342031478881836,
+      "results": [
+        {
+          "rank": 1,
+          "url": "https://www.informatics.uci.edu/grad/mswe/",
+          "score": 27.728964820228565
+        },
+        {
+          "rank": 2,
+          "url": "https://www.informatics.uci.edu/undergrad/courses/",
+          "score": 25.306200657749976
+        },
+        {
+          "rank": 3,
+          "url": "https://www.informatics.uci.edu/grad/courses/",
+          "score": 25.282768181429955
+        },
+        {
+          "rank": 4,
+          "url": "https://www.informatics.uci.edu/grad/ms-software-engineering/",
+          "score": 24.657166798974156
+        },
+        {
+          "rank": 5,
+          "url": "https://www.informatics.uci.edu/explore/department-seminars/department-seminars-2018-2019/",
+          "score": 23.121581772900633
+        },
+        {
+          "rank": 6,
+          "url": "https://www.informatics.uci.edu/training-tomorrows-software-engineers/",
+          "score": 22.978443643157917
+        },
+        {
+          "rank": 7,
+          "url": "https://www.informatics.uci.edu/very-top-footer-menu-items/news/",
+          "score": 22.790433831381037
+        },
+        {
+          "rank": 8,
+          "url": "https://www.informatics.uci.edu/grad/student-profiles/graduate-student-profile-eugenia-gabrielova/",
+          "score": 22.523884767573055
+        },
+        {
+          "rank": 9,
+          "url": "https://www.informatics.uci.edu/student-spotlight-uci-helps-jose-vargas-realize-anything-is-possible/",
+          "score": 22.45470483243337
+        },
+        {
+          "rank": 10,
+          "url": "https://www.informatics.uci.edu/grad/student-profiles/graduate-student-profile-namrata-puri/",
+          "score": 22.381539271205387
+        }
+      ]
+    },
+    "informatics department": {
+      "query": "informatics department",
+      "category": "good",
+      "expected": "department info",
+      "num_results": 10,
+      "query_time_ms": 21.38233184814453,
+      "results": [
+        {
+          "rank": 1,
+          "url": "https://www.informatics.uci.edu/explore/department-seminars/department-seminars-2017-2018/",
+          "score": 20.63534165854198
+        },
+        {
+          "rank": 2,
+          "url": "https://www.informatics.uci.edu/explore/history-of-the-department/",
+          "score": 20.203686835940555
+        },
+        {
+          "rank": 3,
+          "url": "https://www.informatics.uci.edu/explore/department-seminars/department-seminars-2018-2019/",
+          "score": 20.126835741267026
+        },
+        {
+          "rank": 4,
+          "url": "https://www.informatics.uci.edu/informatics-department-receives-1-1m-to-study-socially-responsible-ai/",
+          "score": 20.10740416137635
+        },
+        {
+          "rank": 5,
+          "url": "https://www.informatics.uci.edu/researchers-from-the-department-of-informatics-explore-sustainable-food-systems/",
+          "score": 19.620276261759596
+        },
+        {
+          "rank": 6,
+          "url": "https://www.informatics.uci.edu/2018/04/",
+          "score": 18.8829801359815
+        },
+        {
+          "rank": 7,
+          "url": "https://www.informatics.uci.edu/2019/01/",
+          "score": 18.685396747495435
+        },
+        {
+          "rank": 8,
+          "url": "https://www.informatics.uci.edu/2018/08/page/2/",
+          "score": 18.169155806125776
+        },
+        {
+          "rank": 9,
+          "url": "https://www.informatics.uci.edu/explore/department-seminars/",
+          "score": 18.135352084171185
+        },
+        {
+          "rank": 10,
+          "url": "https://www.informatics.uci.edu/very-top-footer-menu-items/people/",
+          "score": 18.039963837195604
+        }
+      ]
+    },
+    "computer science faculty": {
+      "query": "computer science faculty",
+      "category": "good",
+      "expected": "CS faculty",
+      "num_results": 10,
+      "query_time_ms": 48.78807067871094,
+      "results": [
+        {
+          "rank": 1,
+          "url": "https://www.cs.uci.edu/news/page/15/",
+          "score": 15.722698344155381
+        },
+        {
+          "rank": 2,
+          "url": "https://www.cs.uci.edu/news/page/6/",
+          "score": 15.439662929863166
+        },
+        {
+          "rank": 3,
+          "url": "https://www.cs.uci.edu/faculty/",
+          "score": 14.5617979255031
+        },
+        {
+          "rank": 4,
+          "url": "https://www.cs.uci.edu/news/page/9/",
+          "score": 14.407460796418153
+        },
+        {
+          "rank": 5,
+          "url": "https://www.informatics.uci.edu/women-in-information-and-computer-sciences-wics-organization-mentors-and-supports-future-tech-professionals/",
+          "score": 14.129726528467852
+        },
+        {
+          "rank": 6,
+          "url": "https://www.informatics.uci.edu/informatics-professor-attends-white-house-summit-on-computer-science-initiative/",
+          "score": 14.023543779098123
+        },
+        {
+          "rank": 7,
+          "url": "https://www.cs.uci.edu/news/page/2/",
+          "score": 13.996582064932534
+        },
+        {
+          "rank": 8,
+          "url": "https://www.informatics.uci.edu/impact/graduate-alumni-spotlights/victor-gonzalez/",
+          "score": 13.960929314577946
+        },
+        {
+          "rank": 9,
+          "url": "https://www.informatics.uci.edu/undergrad/bs-information-computer-science/",
+          "score": 13.913174636100768
+        },
+        {
+          "rank": 10,
+          "url": "https://www.informatics.uci.edu/frost-helps-shape-k-12-computer-science-education/",
+          "score": 13.826120555814933
+        }
+      ]
+    },
+    "graduate programs": {
+      "query": "graduate programs",
+      "category": "good",
+      "expected": "grad programs",
+      "num_results": 10,
+      "query_time_ms": 28.957843780517578,
+      "results": [
+        {
+          "rank": 1,
+          "url": "https://www.informatics.uci.edu/graduate-student-spotlight-ernest-garrison-finds-joy-in-helping-others/",
+          "score": 18.547576715078833
+        },
+        {
+          "rank": 2,
+          "url": "https://www.informatics.uci.edu/uci-ranked-3rd-best-value-ux-design-graduate-program/",
+          "score": 16.555354708632983
+        },
+        {
+          "rank": 3,
+          "url": "https://www.informatics.uci.edu/grad/student-profiles/heather-faucett/",
+          "score": 16.39726561958782
+        },
+        {
+          "rank": 4,
+          "url": "https://www.informatics.uci.edu/undergrad/courses/",
+          "score": 15.821134256860475
+        },
+        {
+          "rank": 5,
+          "url": "https://www.informatics.uci.edu/grad/student-profiles/reyhaneh-jabbarvand/",
+          "score": 14.401443199867318
+        },
+        {
+          "rank": 6,
+          "url": "https://www.informatics.uci.edu/grad/student-profiles/jason-reitman/",
+          "score": 14.401443199867318
+        },
+        {
+          "rank": 7,
+          "url": "https://www.informatics.uci.edu/2017/03/page/2/",
+          "score": 14.401443199867318
+        },
+        {
+          "rank": 8,
+          "url": "https://www.informatics.uci.edu/grad/student-profiles/4396-2/",
+          "score": 13.693413928705278
+        },
+        {
+          "rank": 9,
+          "url": "https://www.cs.uci.edu/graduate-computer-science-programs/",
+          "score": 13.217936537925043
+        },
+        {
+          "rank": 10,
+          "url": "https://www.informatics.uci.edu/admissions/graduate-application-process/",
+          "score": 13.144492944556095
+        }
+      ]
+    },
+    "undergraduate courses": {
+      "query": "undergraduate courses",
+      "category": "good",
+      "expected": "undergrad courses",
+      "num_results": 10,
+      "query_time_ms": 28.346776962280273,
+      "results": [
+        {
+          "rank": 1,
+          "url": "https://www.informatics.uci.edu/active-learning-transforms-ubiquitous-computing-course/",
+          "score": 14.19676967220485
+        },
+        {
+          "rank": 2,
+          "url": "https://www.informatics.uci.edu/undergrad/courses/",
+          "score": 13.770930546952298
+        },
+        {
+          "rank": 3,
+          "url": "https://www.informatics.uci.edu/grad/courses/",
+          "score": 13.28315516144983
+        },
+        {
+          "rank": 4,
+          "url": "https://www.informatics.uci.edu/alumni-spotlights-ics-grads-help-autogravity-revolutionize-digital-car-buying/",
+          "score": 13.238287383581715
+        },
+        {
+          "rank": 5,
+          "url": "https://www.informatics.uci.edu/digital-spy-learn-about-parasites-in-free-university-course-inspired-by-the-strain-ziv-mentioned/",
+          "score": 12.98227546673996
+        },
+        {
+          "rank": 6,
+          "url": "https://www.informatics.uci.edu/very-top-footer-menu-items/news/page/4/",
+          "score": 12.915845317329918
+        },
+        {
+          "rank": 7,
+          "url": "https://www.informatics.uci.edu/grad/upcoming-course-schedule/",
+          "score": 12.815291631711155
+        },
+        {
+          "rank": 8,
+          "url": "https://www.informatics.uci.edu/undergrad/upcoming-course-schedule/",
+          "score": 12.815291631711155
+        },
+        {
+          "rank": 9,
+          "url": "https://www.informatics.uci.edu/2019/05/",
+          "score": 12.815291631711155
+        },
+        {
+          "rank": 10,
+          "url": "https://www.informatics.uci.edu/new-faculty-spotlight-professor-katie-salen-tekinbas%CC%A7-explores-the-potential-of-play/",
+          "score": 12.634935350126604
+        }
+      ]
+    },
+    "research labs": {
+      "query": "research labs",
+      "category": "good",
+      "expected": "research information",
+      "num_results": 10,
+      "query_time_ms": 25.214195251464844,
+      "results": [
+        {
+          "rank": 1,
+          "url": "https://www.informatics.uci.edu/2017/08/",
+          "score": 15.089585070068772
+        },
+        {
+          "rank": 2,
+          "url": "https://www.informatics.uci.edu/explore/department-seminars/department-seminars-2014-2015/",
+          "score": 12.538541656144172
+        },
+        {
+          "rank": 3,
+          "url": "https://www.informatics.uci.edu/hai-lab-has-three-papers-accepted-for-cscw-2018/",
+          "score": 12.470824498663314
+        },
+        {
+          "rank": 4,
+          "url": "https://www.informatics.uci.edu/uci-esports-esports-lab-spotlight-maria-j-anderson-coto-informatics-graduate-student/",
+          "score": 12.371950739479773
+        },
+        {
+          "rank": 5,
+          "url": "https://www.informatics.uci.edu/hai-lab-has-six-papers-accepted-for-upcoming-amia-symposium/",
+          "score": 12.261379191682908
+        },
+        {
+          "rank": 6,
+          "url": "https://www.informatics.uci.edu/grad/student-profiles/graduate-student-profile-eugenia-gabrielova/",
+          "score": 12.083874309542802
+        },
+        {
+          "rank": 7,
+          "url": "https://www.informatics.uci.edu/2019/03/",
+          "score": 11.974199700494912
+        },
+        {
+          "rank": 8,
+          "url": "https://www.informatics.uci.edu/hai-lab-paper-takes-third-at-amia-2017-symposium-student-paper-competition/",
+          "score": 11.954359114442028
+        },
+        {
+          "rank": 9,
+          "url": "https://www.informatics.uci.edu/uci-esports-esports-lab-spotlight-craig-g-anderson/",
+          "score": 11.892993520748526
+        },
+        {
+          "rank": 10,
+          "url": "https://www.informatics.uci.edu/grad/student-profiles/reyhaneh-jabbarvand/",
+          "score": 11.862731213949072
+        }
+      ]
+    },
+    "admissions requirements": {
+      "query": "admissions requirements",
+      "category": "good",
+      "expected": "admissions info",
+      "num_results": 10,
+      "query_time_ms": 29.494047164916992,
+      "results": [
+        {
+          "rank": 1,
+          "url": "https://www.informatics.uci.edu/grad/courses/",
+          "score": 23.312914507081317
+        },
+        {
+          "rank": 2,
+          "url": "https://www.informatics.uci.edu/undergrad/courses/",
+          "score": 21.143221778435883
+        },
+        {
+          "rank": 3,
+          "url": "https://www.informatics.uci.edu/undergrad/minors/",
+          "score": 19.909100756777452
+        },
+        {
+          "rank": 4,
+          "url": "https://www.informatics.uci.edu/contra-costa-times-university-of-california-pressured-to-count-computer-science-toward-high-school-math-requirement-richardson-quoted/",
+          "score": 17.161014971702276
+        },
+        {
+          "rank": 5,
+          "url": "https://www.informatics.uci.edu/women-in-the-world-raising-safe-digitally-savvy-kids-in-the-screen-age-requires-a-strategy-mimi-ito-quoted/",
+          "score": 17.161014971702276
+        },
+        {
+          "rank": 6,
+          "url": "https://www.informatics.uci.edu/grad/ms-software-engineering/",
+          "score": 17.161014971702276
+        },
+        {
+          "rank": 7,
+          "url": "https://www.informatics.uci.edu/undergrad/bs-informatics/",
+          "score": 17.161014971702276
+        },
+        {
+          "rank": 8,
+          "url": "https://www.informatics.uci.edu/grad/ms-informatics/",
+          "score": 15.748304624765217
+        },
+        {
+          "rank": 9,
+          "url": "https://www.informatics.uci.edu/grad/phd-informatics/",
+          "score": 15.748304624765217
+        },
+        {
+          "rank": 10,
+          "url": "https://www.informatics.uci.edu/grad/phd-software-engineering/",
+          "score": 14.260742524482668
+        }
+      ]
+    },
+    "the": {
+      "query": "the",
+      "category": "poor",
+      "expected": "too common word",
+      "num_results": 10,
+      "query_time_ms": 15.502214431762695,
+      "results": [
+        {
+          "rank": 1,
+          "url": "https://www.informatics.uci.edu/explore/books-we-have-written/",
+          "score": 18.78318188291171
+        },
+        {
+          "rank": 2,
+          "url": "https://www.informatics.uci.edu/active-learning-transforms-ubiquitous-computing-course/",
+          "score": 14.274708199058649
+        },
+        {
+          "rank": 3,
+          "url": "https://www.informatics.uci.edu/from-homebound-to-school-bound-with-telepresence-robots/",
+          "score": 14.245994129103831
+        },
+        {
+          "rank": 4,
+          "url": "https://www.informatics.uci.edu/informatics-professors-weave-sustainability-into-the-fabric-of-computing-with-comm-acm-paper/",
+          "score": 14.157675446118494
+        },
+        {
+          "rank": 5,
+          "url": "https://www.informatics.uci.edu/2017/05/",
+          "score": 14.034480300305857
+        },
+        {
+          "rank": 6,
+          "url": "https://www.informatics.uci.edu/graduate-student-spotlight-ernest-garrison-finds-joy-in-helping-others/",
+          "score": 14.034480300305857
+        },
+        {
+          "rank": 7,
+          "url": "https://www.informatics.uci.edu/inclusive-streaming-workshop-builds-community-to-advance-research/",
+          "score": 14.002640797711464
+        },
+        {
+          "rank": 8,
+          "url": "https://www.informatics.uci.edu/alumni-spotlights-ics-grads-help-autogravity-revolutionize-digital-car-buying/",
+          "score": 13.904437549487296
+        },
+        {
+          "rank": 9,
+          "url": "https://www.informatics.uci.edu/undergrad/minors/",
+          "score": 13.766740933003568
+        },
+        {
+          "rank": 10,
+          "url": "https://www.informatics.uci.edu/capitalizing-on-the-capstone-experience/",
+          "score": 13.731012493342964
+        }
+      ]
+    },
+    "a": {
+      "query": "a",
+      "category": "poor",
+      "expected": "single letter",
+      "num_results": 10,
+      "query_time_ms": 12.682914733886719,
+      "results": [
+        {
+          "rank": 1,
+          "url": "https://www.informatics.uci.edu/alumni-spotlights-ics-grads-help-autogravity-revolutionize-digital-car-buying/",
+          "score": 13.575849416694565
+        },
+        {
+          "rank": 2,
+          "url": "https://www.informatics.uci.edu/graduate-student-spotlight-ernest-garrison-finds-joy-in-helping-others/",
+          "score": 13.493049902344852
+        },
+        {
+          "rank": 3,
+          "url": "https://www.informatics.uci.edu/senior-spotlight-taneisha-arora-pursues-her-passions-from-working-in-industry-to-running-a-bakery/",
+          "score": 12.639390360583318
+        },
+        {
+          "rank": 4,
+          "url": "https://www.informatics.uci.edu/impact/graduate-alumni-spotlights/amanda-williams/",
+          "score": 12.515175153244531
+        },
+        {
+          "rank": 5,
+          "url": "https://www.informatics.uci.edu/senior-spotlight-celine-deleon-18-is-a-source-of-inspiration-for-girls-studying-technology/",
+          "score": 12.450526067127013
+        },
+        {
+          "rank": 6,
+          "url": "https://www.informatics.uci.edu/informatics-professors-weave-sustainability-into-the-fabric-of-computing-with-comm-acm-paper/",
+          "score": 12.450526067127013
+        },
+        {
+          "rank": 7,
+          "url": "https://www.informatics.uci.edu/student-spotlight-uci-helps-jose-vargas-realize-anything-is-possible/",
+          "score": 12.3840556424125
+        },
+        {
+          "rank": 8,
+          "url": "https://www.informatics.uci.edu/2019/02/",
+          "score": 12.3840556424125
+        },
+        {
+          "rank": 9,
+          "url": "https://www.informatics.uci.edu/impact/undergraduate-alumni-spotlights/aylwin-villanueva/",
+          "score": 12.3840556424125
+        },
+        {
+          "rank": 10,
+          "url": "https://www.informatics.uci.edu/senior-spotlight-matthew-ardeleanu-exemplifies-perseverance-on-road-to-success/",
+          "score": 12.315658272686646
+        }
+      ]
+    },
+    "and": {
+      "query": "and",
+      "category": "poor",
+      "expected": "common word",
+      "num_results": 10,
+      "query_time_ms": 17.651081085205078,
+      "results": [
+        {
+          "rank": 1,
+          "url": "https://www.informatics.uci.edu/undergrad/courses/",
+          "score": 16.454246972816108
+        },
+        {
+          "rank": 2,
+          "url": "https://www.informatics.uci.edu/grad/courses/",
+          "score": 16.022731171708102
+        },
+        {
+          "rank": 3,
+          "url": "https://www.cs.uci.edu/art-and-computers-symposium/acsymposium-speakers/",
+          "score": 15.730889100006161
+        },
+        {
+          "rank": 4,
+          "url": "https://www.informatics.uci.edu/graduate-student-spotlight-ernest-garrison-finds-joy-in-helping-others/",
+          "score": 14.80021415625505
+        },
+        {
+          "rank": 5,
+          "url": "https://www.informatics.uci.edu/women-in-information-and-computer-sciences-wics-organization-mentors-and-supports-future-tech-professionals/",
+          "score": 14.005644686226653
+        },
+        {
+          "rank": 6,
+          "url": "https://www.informatics.uci.edu/alumni-spotlights-ics-grads-help-autogravity-revolutionize-digital-car-buying/",
+          "score": 13.91463711202394
+        },
+        {
+          "rank": 7,
+          "url": "https://www.informatics.uci.edu/2017/05/",
+          "score": 13.67117833574243
+        },
+        {
+          "rank": 8,
+          "url": "https://www.informatics.uci.edu/senior-spotlight-taneisha-arora-pursues-her-passions-from-working-in-industry-to-running-a-bakery/",
+          "score": 13.67117833574243
+        },
+        {
+          "rank": 9,
+          "url": "https://www.informatics.uci.edu/undergrad/minors/",
+          "score": 13.566612615086783
+        },
+        {
+          "rank": 10,
+          "url": "https://www.informatics.uci.edu/2018-ics-projects-and-predictions/",
+          "score": 13.40091454134647
+        }
+      ]
+    },
+    "computer": {
+      "query": "computer",
+      "category": "poor",
+      "expected": "too general",
+      "num_results": 10,
+      "query_time_ms": 0.9529590606689453,
+      "results": [
+        {
+          "rank": 1,
+          "url": "https://www.informatics.uci.edu/undergrad/courses/",
+          "score": 12.775680754354928
+        },
+        {
+          "rank": 2,
+          "url": "https://www.informatics.uci.edu/grad/courses/",
+          "score": 11.882365825595793
+        },
+        {
+          "rank": 3,
+          "url": "https://www.informatics.uci.edu/informatics-professors-weave-sustainability-into-the-fabric-of-computing-with-comm-acm-paper/",
+          "score": 11.4571076968498
+        },
+        {
+          "rank": 4,
+          "url": "https://www.informatics.uci.edu/explore/department-seminars/department-seminars-2018-2019/",
+          "score": 11.262623250727367
+        },
+        {
+          "rank": 5,
+          "url": "https://www.informatics.uci.edu/informatics-professor-attends-white-house-summit-on-computer-science-initiative/",
+          "score": 11.15894119742142
+        },
+        {
+          "rank": 6,
+          "url": "https://www.informatics.uci.edu/women-in-information-and-computer-sciences-wics-organization-mentors-and-supports-future-tech-professionals/",
+          "score": 11.050435022145141
+        },
+        {
+          "rank": 7,
+          "url": "https://www.informatics.uci.edu/2015/06/",
+          "score": 10.816994144100923
+        },
+        {
+          "rank": 8,
+          "url": "https://www.informatics.uci.edu/ics-professors-make-computing-reviews-best-of-computing-notable-books-list/",
+          "score": 10.816994144100923
+        },
+        {
+          "rank": 9,
+          "url": "https://www.informatics.uci.edu/undergrad/bs-information-computer-science/",
+          "score": 10.816994144100923
+        },
+        {
+          "rank": 10,
+          "url": "https://www.informatics.uci.edu/frost-helps-shape-k-12-computer-science-education/",
+          "score": 10.816994144100923
+        }
+      ]
+    },
+    "student": {
+      "query": "student",
+      "category": "poor",
+      "expected": "too general",
+      "num_results": 10,
+      "query_time_ms": 17.379045486450195,
+      "results": [
+        {
+          "rank": 1,
+          "url": "https://www.informatics.uci.edu/professor-black-discusses-technology-behind-ucis-14-7m-grant-to-expand-literacy-outreach/",
+          "score": 12.499879806748222
+        },
+        {
+          "rank": 2,
+          "url": "https://www.informatics.uci.edu/adjunct-lecturer-paul-lumsdaine-prepares-informatics-students-for-real-world-challenges/",
+          "score": 12.42838677094405
+        },
+        {
+          "rank": 3,
+          "url": "https://www.informatics.uci.edu/graduate-student-spotlight-ernest-garrison-finds-joy-in-helping-others/",
+          "score": 12.42838677094405
+        },
+        {
+          "rank": 4,
+          "url": "https://www.informatics.uci.edu/2019/04/",
+          "score": 12.11894549710127
+        },
+        {
+          "rank": 5,
+          "url": "https://www.informatics.uci.edu/2015/04/",
+          "score": 12.11894549710127
+        },
+        {
+          "rank": 6,
+          "url": "https://www.informatics.uci.edu/stew-sutton-enhances-student-learning-with-donated-software-licenses/",
+          "score": 12.034907441277339
+        },
+        {
+          "rank": 7,
+          "url": "https://www.informatics.uci.edu/winter-2018-informatics-student-project-showcase/",
+          "score": 12.034907441277339
+        },
+        {
+          "rank": 8,
+          "url": "https://www.informatics.uci.edu/ph-d-students-du-meza-soria-take-second-place-at-amia-student-design-challenge/",
+          "score": 11.947812794297564
+        },
+        {
+          "rank": 9,
+          "url": "https://www.informatics.uci.edu/very-top-footer-menu-items/news/",
+          "score": 11.947812794297564
+        },
+        {
+          "rank": 10,
+          "url": "https://www.informatics.uci.edu/cpri-hosts-workforce-2020-panel-discussion-and-networking-reception-for-ics-90-students/",
+          "score": 11.857430790802287
+        }
+      ]
+    },
+    "program": {
+      "query": "program",
+      "category": "poor",
+      "expected": "ambiguous",
+      "num_results": 10,
+      "query_time_ms": 0.6029605865478516,
+      "results": [
+        {
+          "rank": 1,
+          "url": "https://www.informatics.uci.edu/undergrad/courses/",
+          "score": 18.16698906221
+        },
+        {
+          "rank": 2,
+          "url": "https://www.informatics.uci.edu/graduate-student-spotlight-ernest-garrison-finds-joy-in-helping-others/",
+          "score": 16.141556215206904
+        },
+        {
+          "rank": 3,
+          "url": "https://www.cs.uci.edu/ics-alumnus-nithin-jillas-nonprofit-inspires-students-to-love-stem/",
+          "score": 14.077341971373757
+        },
+        {
+          "rank": 4,
+          "url": "https://www.informatics.uci.edu/mhcid-program-launches-online-publication/",
+          "score": 13.540805985120329
+        },
+        {
+          "rank": 5,
+          "url": "https://www.informatics.uci.edu/grad/student-profiles/graduate-student-profile-namrata-puri/",
+          "score": 13.540805985120329
+        },
+        {
+          "rank": 6,
+          "url": "https://www.informatics.uci.edu/grad/student-profiles/heather-faucett/",
+          "score": 13.540805985120329
+        },
+        {
+          "rank": 7,
+          "url": "https://www.informatics.uci.edu/informatics-ph-d-students-baldwin-boyd-receive-2017-ford-foundation-fellowship-program-honorable-mentions/",
+          "score": 13.130851015926313
+        },
+        {
+          "rank": 8,
+          "url": "https://www.informatics.uci.edu/uci-ranked-3rd-best-value-ux-design-graduate-program/",
+          "score": 13.130851015926313
+        },
+        {
+          "rank": 9,
+          "url": "https://www.informatics.uci.edu/grad/courses/",
+          "score": 13.130851015926313
+        },
+        {
+          "rank": 10,
+          "url": "https://www.informatics.uci.edu/uc-irvine-launches-executive-masters-program-in-human-computer-interaction-design/",
+          "score": 12.906218603479685
+        }
+      ]
+    },
+    "course": {
+      "query": "course",
+      "category": "poor",
+      "expected": "too general",
+      "num_results": 10,
+      "query_time_ms": 0.6320476531982422,
+      "results": [
+        {
+          "rank": 1,
+          "url": "https://www.informatics.uci.edu/active-learning-transforms-ubiquitous-computing-course/",
+          "score": 15.522460036206386
+        },
+        {
+          "rank": 2,
+          "url": "https://www.informatics.uci.edu/undergrad/courses/",
+          "score": 14.778028183936476
+        },
+        {
+          "rank": 3,
+          "url": "https://www.informatics.uci.edu/grad/courses/",
+          "score": 14.230414004315774
+        },
+        {
+          "rank": 4,
+          "url": "https://www.informatics.uci.edu/alumni-spotlights-ics-grads-help-autogravity-revolutionize-digital-car-buying/",
+          "score": 14.024756998392487
+        },
+        {
+          "rank": 5,
+          "url": "https://www.informatics.uci.edu/digital-spy-learn-about-parasites-in-free-university-course-inspired-by-the-strain-ziv-mentioned/",
+          "score": 13.804905859414395
+        },
+        {
+          "rank": 6,
+          "url": "https://www.informatics.uci.edu/grad/upcoming-course-schedule/",
+          "score": 13.568755055219588
+        },
+        {
+          "rank": 7,
+          "url": "https://www.informatics.uci.edu/undergrad/upcoming-course-schedule/",
+          "score": 13.568755055219588
+        },
+        {
+          "rank": 8,
+          "url": "https://www.informatics.uci.edu/2019/05/",
+          "score": 13.568755055219588
+        },
+        {
+          "rank": 9,
+          "url": "https://www.informatics.uci.edu/very-top-footer-menu-items/news/page/4/",
+          "score": 13.568755055219588
+        },
+        {
+          "rank": 10,
+          "url": "https://www.informatics.uci.edu/new-faculty-spotlight-professor-katie-salen-tekinbas%CC%A7-explores-the-potential-of-play/",
+          "score": 13.31369275574354
+        }
+      ]
+    },
+    "research": {
+      "query": "research",
+      "category": "poor",
+      "expected": "too general",
+      "num_results": 10,
+      "query_time_ms": 0.9129047393798828,
+      "results": [
+        {
+          "rank": 1,
+          "url": "https://www.cs.uci.edu/faculty/",
+          "score": 13.308106370492865
+        },
+        {
+          "rank": 2,
+          "url": "https://www.informatics.uci.edu/grad/courses/",
+          "score": 12.663064611128314
+        },
+        {
+          "rank": 3,
+          "url": "https://www.informatics.uci.edu/grad/student-profiles/graduate-student-profile-eugenia-gabrielova/",
+          "score": 12.082608106366042
+        },
+        {
+          "rank": 4,
+          "url": "https://www.informatics.uci.edu/grad/student-profiles/reyhaneh-jabbarvand/",
+          "score": 11.769864541352222
+        },
+        {
+          "rank": 5,
+          "url": "https://www.informatics.uci.edu/a-shared-passion-for-research-on-capitol-hill/",
+          "score": 11.769864541352222
+        },
+        {
+          "rank": 6,
+          "url": "https://www.informatics.uci.edu/impact/research-that-matters/",
+          "score": 11.684687966274215
+        },
+        {
+          "rank": 7,
+          "url": "https://www.informatics.uci.edu/inclusive-streaming-workshop-builds-community-to-advance-research/",
+          "score": 11.504437690297777
+        },
+        {
+          "rank": 8,
+          "url": "https://www.informatics.uci.edu/hayes-receives-jacobs-foundation-advanced-research-fellowship/",
+          "score": 11.408828591595883
+        },
+        {
+          "rank": 9,
+          "url": "https://www.informatics.uci.edu/informatics-ph-d-student-jazette-johnson-receives-community-based-research-fellowship/",
+          "score": 11.408828591595883
+        },
+        {
+          "rank": 10,
+          "url": "https://www.informatics.uci.edu/professor-ruberg-honored-for-excellence-in-fostering-undergraduate-research/",
+          "score": 11.309149817359062
+        }
+      ]
+    },
+    "university": {
+      "query": "university",
+      "category": "poor",
+      "expected": "too general",
+      "num_results": 10,
+      "query_time_ms": 12.313127517700195,
+      "results": [
+        {
+          "rank": 1,
+          "url": "https://www.informatics.uci.edu/explore/books-we-have-written/",
+          "score": 13.154375512599158
+        },
+        {
+          "rank": 2,
+          "url": "https://www.informatics.uci.edu/explore/department-seminars/department-seminars-2017-2018/",
+          "score": 12.56766529612514
+        },
+        {
+          "rank": 3,
+          "url": "https://www.informatics.uci.edu/2016/12/",
+          "score": 12.399338016062151
+        },
+        {
+          "rank": 4,
+          "url": "https://www.informatics.uci.edu/uci-ranked-7th-best-university-for-coding-in-u-s-by-hackerrank/",
+          "score": 11.600574422528865
+        },
+        {
+          "rank": 5,
+          "url": "https://www.informatics.uci.edu/explore/department-seminars/department-seminars-2018-2019/",
+          "score": 11.358983003327152
+        },
+        {
+          "rank": 6,
+          "url": "https://www.informatics.uci.edu/2019/01/",
+          "score": 11.358983003327152
+        },
+        {
+          "rank": 7,
+          "url": "https://www.informatics.uci.edu/explore/department-seminars/department-seminars-2015-2016/",
+          "score": 10.951931160047645
+        },
+        {
+          "rank": 8,
+          "url": "https://www.informatics.uci.edu/explore/department-seminars/department-seminars-2014-2015/",
+          "score": 10.951931160047645
+        },
+        {
+          "rank": 9,
+          "url": "https://www.informatics.uci.edu/university-of-wisconsin-madison-a-video-game-can-change-the-brain-may-improve-empathy-in-middle-schoolers-constance-steinkuehler-and-kurt-squire-mentioned/",
+          "score": 10.47478036784677
+        },
+        {
+          "rank": 10,
+          "url": "https://www.informatics.uci.edu/ics-welcomes-four-new-faculty-members-for-fall-2016-quarter/",
+          "score": 10.47478036784677
+        }
+      ]
+    },
+    "department": {
+      "query": "department",
+      "category": "poor",
+      "expected": "too general",
+      "num_results": 10,
+      "query_time_ms": 0.7100105285644531,
+      "results": [
+        {
+          "rank": 1,
+          "url": "https://www.informatics.uci.edu/explore/department-seminars/department-seminars-2017-2018/",
+          "score": 14.783063359074223
+        },
+        {
+          "rank": 2,
+          "url": "https://www.informatics.uci.edu/explore/department-seminars/department-seminars-2018-2019/",
+          "score": 14.532120803111967
+        },
+        {
+          "rank": 3,
+          "url": "https://www.informatics.uci.edu/explore/history-of-the-department/",
+          "score": 14.398340236168169
+        },
+        {
+          "rank": 4,
+          "url": "https://www.informatics.uci.edu/informatics-department-receives-1-1m-to-study-socially-responsible-ai/",
+          "score": 13.439932329923328
+        },
+        {
+          "rank": 5,
+          "url": "https://www.informatics.uci.edu/researchers-from-the-department-of-informatics-explore-sustainable-food-systems/",
+          "score": 12.574133798518897
+        },
+        {
+          "rank": 6,
+          "url": "https://www.informatics.uci.edu/explore/department-seminars/",
+          "score": 12.574133798518897
+        },
+        {
+          "rank": 7,
+          "url": "https://www.informatics.uci.edu/explore/department-vision/",
+          "score": 12.574133798518897
+        },
+        {
+          "rank": 8,
+          "url": "https://www.informatics.uci.edu/explore/department-seminars/department-seminars-2015-2016/",
+          "score": 12.446047778604992
+        },
+        {
+          "rank": 9,
+          "url": "https://www.informatics.uci.edu/explore/department-seminars/department-seminars-2014-2015/",
+          "score": 12.446047778604992
+        },
+        {
+          "rank": 10,
+          "url": "https://www.informatics.uci.edu/explore/department-seminars/department-seminars-2016-2017/",
+          "score": 12.312267211661194
+        }
+      ]
+    },
+    "artificial intelligence machine learning": {
+      "query": "artificial intelligence machine learning",
+      "category": "challenging",
+      "expected": "multi-term",
+      "num_results": 10,
+      "query_time_ms": 32.11092948913574,
+      "results": [
+        {
+          "rank": 1,
+          "url": "https://www.cs.uci.edu/news/page/2/",
+          "score": 37.25638207907113
+        },
+        {
+          "rank": 2,
+          "url": "https://www.cs.uci.edu/news/page/16/",
+          "score": 32.78189114464113
+        },
+        {
+          "rank": 3,
+          "url": "https://www.cs.uci.edu/cylance-commits-50k-to-ucis-center-for-machine-learning-and-intelligent-systems-to-support-seminar-series-ph-d-recruitment/",
+          "score": 30.98413176936241
+        },
+        {
+          "rank": 4,
+          "url": "https://www.cs.uci.edu/faculty/",
+          "score": 30.14845465247223
+        },
+        {
+          "rank": 5,
+          "url": "https://www.cs.uci.edu/news/page/4/",
+          "score": 30.113239068721196
+        },
+        {
+          "rank": 6,
+          "url": "https://www.cs.uci.edu/news/page/19/",
+          "score": 28.27666427963408
+        },
+        {
+          "rank": 7,
+          "url": "https://www.cs.uci.edu/aiuci-exploring-the-world-of-artificial-intelligence/",
+          "score": 27.96917871147334
+        },
+        {
+          "rank": 8,
+          "url": "https://www.cs.uci.edu/singh-to-deliver-machine-learning-talk-at-july-oc-acm-meetup/",
+          "score": 25.907887128098498
+        },
+        {
+          "rank": 9,
+          "url": "https://www.informatics.uci.edu/explore/department-seminars/department-seminars-2016-2017/",
+          "score": 24.861579614182258
+        },
+        {
+          "rank": 10,
+          "url": "https://www.cs.uci.edu/the-wrap-elon-musk-and-mark-zuckerbergs-artificial-intelligence-divide-experts-weigh-in-singh-quoted/",
+          "score": 24.030616420557067
+        }
+      ]
+    },
+    "software engineering graduate program": {
+      "query": "software engineering graduate program",
+      "category": "challenging",
+      "expected": "specific program",
+      "num_results": 10,
+      "query_time_ms": 1.1799335479736328,
+      "results": [
+        {
+          "rank": 1,
+          "url": "https://www.informatics.uci.edu/undergrad/courses/",
+          "score": 26.385583785864238
+        },
+        {
+          "rank": 2,
+          "url": "https://www.informatics.uci.edu/grad/courses/",
+          "score": 24.028707198138022
+        },
+        {
+          "rank": 3,
+          "url": "https://www.informatics.uci.edu/grad/student-profiles/4396-2/",
+          "score": 23.32528468488295
+        },
+        {
+          "rank": 4,
+          "url": "https://www.informatics.uci.edu/grad/student-profiles/reyhaneh-jabbarvand/",
+          "score": 23.294628669066668
+        },
+        {
+          "rank": 5,
+          "url": "https://www.informatics.uci.edu/grad/student-profiles/graduate-student-profile-namrata-puri/",
+          "score": 22.829510714606666
+        },
+        {
+          "rank": 6,
+          "url": "https://www.informatics.uci.edu/grad/student-profiles/graduate-student-profile-eugenia-gabrielova/",
+          "score": 21.8146140651023
+        },
+        {
+          "rank": 7,
+          "url": "https://www.informatics.uci.edu/very-top-footer-menu-items/news/",
+          "score": 21.246896762629355
+        },
+        {
+          "rank": 8,
+          "url": "https://www.informatics.uci.edu/grad/ms-software-engineering/",
+          "score": 20.84753452326773
+        },
+        {
+          "rank": 9,
+          "url": "https://www.informatics.uci.edu/explore/department-seminars/department-seminars-2018-2019/",
+          "score": 20.441722651433896
+        },
+        {
+          "rank": 10,
+          "url": "https://www.informatics.uci.edu/grad/mswe/",
+          "score": 20.407893071290296
+        }
+      ]
+    },
+    "data science research": {
+      "query": "data science research",
+      "category": "challenging",
+      "expected": "research area",
+      "num_results": 10,
+      "query_time_ms": 16.78013801574707,
+      "results": [
+        {
+          "rank": 1,
+          "url": "https://www.informatics.uci.edu/explore/department-seminars/department-seminars-2017-2018/",
+          "score": 21.725632473274594
+        },
+        {
+          "rank": 2,
+          "url": "https://www.cs.uci.edu/news/page/17/",
+          "score": 21.055444891762228
+        },
+        {
+          "rank": 3,
+          "url": "https://www.cs.uci.edu/faculty/",
+          "score": 21.009848212411377
+        },
+        {
+          "rank": 4,
+          "url": "https://www.cs.uci.edu/multidisciplinary-graduate-training-program-advances-wildfire-prediction-research/",
+          "score": 20.81987405003978
+        },
+        {
+          "rank": 5,
+          "url": "https://www.informatics.uci.edu/strava-map-exposes-weaknesses-in-understanding-complexities-of-pervasive-data/",
+          "score": 19.881968331872837
+        },
+        {
+          "rank": 6,
+          "url": "https://www.cs.uci.edu/events/research-showcase/",
+          "score": 19.66615838314623
+        },
+        {
+          "rank": 7,
+          "url": "https://www.cs.uci.edu/event/2017-computer-science-research-showcase/",
+          "score": 19.407811442617817
+        },
+        {
+          "rank": 8,
+          "url": "https://www.informatics.uci.edu/explore/department-seminars/department-seminars-2015-2016/",
+          "score": 19.305302457916618
+        },
+        {
+          "rank": 9,
+          "url": "https://www.informatics.uci.edu/very-top-footer-menu-items/news/",
+          "score": 18.803841947275835
+        },
+        {
+          "rank": 10,
+          "url": "https://www.informatics.uci.edu/bowker-awarded-two-nsf-grants-for-big-data-research/",
+          "score": 18.768145633478444
+        }
+      ]
+    },
+    "human computer interaction": {
+      "query": "human computer interaction",
+      "category": "challenging",
+      "expected": "HCI research",
+      "num_results": 10,
+      "query_time_ms": 24.44291114807129,
+      "results": [
+        {
+          "rank": 1,
+          "url": "https://www.informatics.uci.edu/undergrad/courses/",
+          "score": 22.939571875408955
+        },
+        {
+          "rank": 2,
+          "url": "https://www.informatics.uci.edu/grad/courses/",
+          "score": 20.817062055130204
+        },
+        {
+          "rank": 3,
+          "url": "https://www.informatics.uci.edu/explore/department-seminars/department-seminars-2017-2018/",
+          "score": 19.196172407840958
+        },
+        {
+          "rank": 4,
+          "url": "https://www.informatics.uci.edu/campus-technology-uc-irvine-offers-new-program-focused-on-human-computer-interaction-design/",
+          "score": 18.705808485937478
+        },
+        {
+          "rank": 5,
+          "url": "https://www.informatics.uci.edu/explore/department-seminars/department-seminars-2018-2019/",
+          "score": 18.609779999672043
+        },
+        {
+          "rank": 6,
+          "url": "https://www.informatics.uci.edu/2016/05/",
+          "score": 17.902674546751197
+        },
+        {
+          "rank": 7,
+          "url": "https://www.informatics.uci.edu/very-top-footer-menu-items/news/page/38/",
+          "score": 16.76271689838454
+        },
+        {
+          "rank": 8,
+          "url": "https://www.informatics.uci.edu/2016/04/",
+          "score": 16.700171563745183
+        },
+        {
+          "rank": 9,
+          "url": "https://www.informatics.uci.edu/uc-irvine-launches-executive-masters-program-in-human-computer-interaction-design/",
+          "score": 16.52543755791912
+        },
+        {
+          "rank": 10,
+          "url": "https://www.informatics.uci.edu/grad/mhcid/",
+          "score": 15.649571386666928
+        }
+      ]
+    },
+    "cybersecurity courses": {
+      "query": "cybersecurity courses",
+      "category": "challenging",
+      "expected": "specific courses",
+      "num_results": 10,
+      "query_time_ms": 15.51198959350586,
+      "results": [
+        {
+          "rank": 1,
+          "url": "https://www.informatics.uci.edu/educating-the-next-generation-about-cybersecurity/",
+          "score": 35.21102154516282
+        },
+        {
+          "rank": 2,
+          "url": "https://www.informatics.uci.edu/cyberuci-clubs-growing-cybersecurity-community-develops-third-place-team/",
+          "score": 33.58183907737421
+        },
+        {
+          "rank": 3,
+          "url": "https://www.informatics.uci.edu/2019/04/",
+          "score": 24.306326633047487
+        },
+        {
+          "rank": 4,
+          "url": "https://www.informatics.uci.edu/2018/09/",
+          "score": 20.354778531668373
+        },
+        {
+          "rank": 5,
+          "url": "https://www.informatics.uci.edu/very-top-footer-menu-items/news/page/12/",
+          "score": 20.354778531668373
+        },
+        {
+          "rank": 6,
+          "url": "https://www.cs.uci.edu/news/page/4/",
+          "score": 19.46176503207087
+        },
+        {
+          "rank": 7,
+          "url": "https://www.informatics.uci.edu/cpri-hosts-workforce-2020-panel-discussion-and-networking-reception-for-ics-90-students/",
+          "score": 18.743337199112872
+        },
+        {
+          "rank": 8,
+          "url": "https://www.informatics.uci.edu/very-top-footer-menu-items/news/page/5/",
+          "score": 18.65924962215625
+        },
+        {
+          "rank": 9,
+          "url": "https://www.informatics.uci.edu/2018/12/",
+          "score": 13.5203886815804
+        },
+        {
+          "rank": 10,
+          "url": "https://www.informatics.uci.edu/very-top-footer-menu-items/news/page/9/",
+          "score": 13.5203886815804
+        }
+      ]
+    },
+    "phd program requirements": {
+      "query": "phd program requirements",
+      "category": "challenging",
+      "expected": "phd info",
+      "num_results": 5,
+      "query_time_ms": 17.14611053466797,
+      "results": [
+        {
+          "rank": 1,
+          "url": "https://www.informatics.uci.edu/grad/ms-informatics/",
+          "score": 19.953277836664395
+        },
+        {
+          "rank": 2,
+          "url": "https://www.cs.uci.edu/news/page/18/",
+          "score": 15.714501720354496
+        },
+        {
+          "rank": 3,
+          "url": "https://www.cs.uci.edu/art-and-computers-symposium/acsymposium-speakers/",
+          "score": 10.915964629555406
+        },
+        {
+          "rank": 4,
+          "url": "https://www.informatics.uci.edu/professor-black-discusses-technology-behind-ucis-14-7m-grant-to-expand-literacy-outreach/",
+          "score": 10.353684486048564
+        },
+        {
+          "rank": 5,
+          "url": "https://www.informatics.uci.edu/impact/graduate-alumni-spotlights/amanda-williams/",
+          "score": 10.353684486048564
+        }
+      ]
+    },
+    "faculty publications": {
+      "query": "faculty publications",
+      "category": "challenging",
+      "expected": "publications",
+      "num_results": 10,
+      "query_time_ms": 15.045166015625,
+      "results": [
+        {
+          "rank": 1,
+          "url": "https://www.informatics.uci.edu/two-ics-ph-d-students-receive-2017-uci-public-impact-fellowships/",
+          "score": 19.33411427381459
+        },
+        {
+          "rank": 2,
+          "url": "https://www.cs.uci.edu/two-ics-ph-d-students-receive-2017-uci-public-impact-fellowships/",
+          "score": 19.33411427381459
+        },
+        {
+          "rank": 3,
+          "url": "https://www.informatics.uci.edu/lopes-awarded-pizzigati-prize-for-software-in-the-public-interest/",
+          "score": 17.67033160646528
+        },
+        {
+          "rank": 4,
+          "url": "https://www.informatics.uci.edu/mhcid-program-launches-online-publication/",
+          "score": 16.81860863815579
+        },
+        {
+          "rank": 5,
+          "url": "https://www.informatics.uci.edu/2017/03/",
+          "score": 15.1359003102509
+        },
+        {
+          "rank": 6,
+          "url": "https://www.informatics.uci.edu/2016/12/",
+          "score": 14.793722719860746
+        },
+        {
+          "rank": 7,
+          "url": "https://www.informatics.uci.edu/research-for-the-public-good/",
+          "score": 14.208766265441344
+        },
+        {
+          "rank": 8,
+          "url": "https://www.informatics.uci.edu/very-top-footer-menu-items/news/page/33/",
+          "score": 13.357043297131854
+        },
+        {
+          "rank": 9,
+          "url": "https://www.informatics.uci.edu/explore/department-seminars/",
+          "score": 12.25929142364637
+        },
+        {
+          "rank": 10,
+          "url": "https://www.informatics.uci.edu/explore/faculty-profiles/constance-steinkuehler/",
+          "score": 12.258218597437466
+        }
+      ]
+    },
+    "internship opportunities": {
+      "query": "internship opportunities",
+      "category": "challenging",
+      "expected": "internships",
+      "num_results": 10,
+      "query_time_ms": 26.256322860717773,
+      "results": [
+        {
+          "rank": 1,
+          "url": "https://www.informatics.uci.edu/undergrad/student-profiles/max-uzoukwu/",
+          "score": 22.887936745301662
+        },
+        {
+          "rank": 2,
+          "url": "https://www.informatics.uci.edu/impact/graduate-alumni-spotlights/nitin-shantharam/",
+          "score": 22.429526992496946
+        },
+        {
+          "rank": 3,
+          "url": "https://www.informatics.uci.edu/undergrad/student-profiles/hugo-polanco/",
+          "score": 21.64587034401165
+        },
+        {
+          "rank": 4,
+          "url": "https://www.informatics.uci.edu/undergrad/student-profiles/nafiri-kusumakaulika/",
+          "score": 21.64587034401165
+        },
+        {
+          "rank": 5,
+          "url": "https://www.informatics.uci.edu/undergrad/student-profiles/diane-jiea-monchusap/",
+          "score": 21.64587034401165
+        },
+        {
+          "rank": 6,
+          "url": "https://www.informatics.uci.edu/grad/student-profiles/graduate-student-profile-eugenia-gabrielova/",
+          "score": 20.334155892906338
+        },
+        {
+          "rank": 7,
+          "url": "https://www.informatics.uci.edu/undergrad/student-profiles/delian-petrov/",
+          "score": 20.334155892906338
+        },
+        {
+          "rank": 8,
+          "url": "https://www.informatics.uci.edu/grad/student-profiles/graduate-student-profile-namrata-puri/",
+          "score": 19.87574614010162
+        },
+        {
+          "rank": 9,
+          "url": "https://www.informatics.uci.edu/grad/student-profiles/reyhaneh-jabbarvand/",
+          "score": 19.87574614010162
+        },
+        {
+          "rank": 10,
+          "url": "https://www.informatics.uci.edu/undergrad/student-profiles/william-stone/",
+          "score": 19.87574614010162
+        }
+      ]
+    },
+    "scholarship financial aid": {
+      "query": "scholarship financial aid",
+      "category": "challenging",
+      "expected": "financial aid",
+      "num_results": 1,
+      "query_time_ms": 52.626848220825195,
+      "results": [
+        {
+          "rank": 1,
+          "url": "https://www.informatics.uci.edu/admissions/graduate-application-process/",
+          "score": 16.03807885142141
+        }
+      ]
+    },
+    "alumni network": {
+      "query": "alumni network",
+      "category": "challenging",
+      "expected": "alumni info",
+      "num_results": 10,
+      "query_time_ms": 29.510021209716797,
+      "results": [
+        {
+          "rank": 1,
+          "url": "https://www.informatics.uci.edu/ito-named-to-cartoon-networks-steam-team/",
+          "score": 20.44936979614994
+        },
+        {
+          "rank": 2,
+          "url": "https://www.informatics.uci.edu/cpri-hosts-workforce-2020-panel-discussion-and-networking-reception-for-ics-90-students/",
+          "score": 20.13246336813676
+        },
+        {
+          "rank": 3,
+          "url": "https://www.informatics.uci.edu/2016/12/",
+          "score": 18.52713912525112
+        },
+        {
+          "rank": 4,
+          "url": "https://www.informatics.uci.edu/uci-assumes-leadership-role-with-first-annual-esports-conference/",
+          "score": 16.6662928892018
+        },
+        {
+          "rank": 5,
+          "url": "https://www.informatics.uci.edu/connected-learning-alliance-close-the-digital-generation-gap-unlock-the-power-of-online-affinity-networks-and-fuel-learning-by-mimi-ito/",
+          "score": 16.6662928892018
+        },
+        {
+          "rank": 6,
+          "url": "https://www.informatics.uci.edu/multichanel-news-cartoon-network-adds-steam-to-computer-ed-initiative-ito-mentioned/",
+          "score": 16.6662928892018
+        },
+        {
+          "rank": 7,
+          "url": "https://www.informatics.uci.edu/explore/department-seminars/seminar-info/?seminar_id=1003",
+          "score": 14.974606470972915
+        },
+        {
+          "rank": 8,
+          "url": "https://www.informatics.uci.edu/2019/01/",
+          "score": 14.64382352915032
+        },
+        {
+          "rank": 9,
+          "url": "https://www.informatics.uci.edu/explore/faculty-profiles/kurt-squire/",
+          "score": 14.64382352915032
+        },
+        {
+          "rank": 10,
+          "url": "http://www-db.ics.uci.edu/pages/research/quasar/",
+          "score": 14.279764739381196
+        }
+      ]
+    }
+  }
+}

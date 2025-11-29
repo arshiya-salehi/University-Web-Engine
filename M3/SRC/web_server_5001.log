@@ -1,0 +1,29 @@
+Initializing M3 enhanced search engine...
+Loaded 1212 document mappings
+Loading extra credit features...
+  ✓ Duplicate detection loaded
+  ✓ PageRank loaded
+  ✓ N-gram indexing loaded
+  ✓ Word positions loaded
+Extra credit features loaded
+
+Search engine ready!
+Starting web server on 0.0.0.0:5001 (debug=False)
+ * Serving Flask app 'web_search_m3'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.7:5001
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [28/Nov/2025 16:36:42] "GET /features HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2025 16:36:47] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2025 16:36:50] "POST /search HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2025 16:36:53] "POST /search HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2025 16:36:56] "POST /search HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2025 16:36:59] "POST /search HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2025 16:37:03] "GET /features HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2025 16:37:10] "POST /search HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2025 16:37:52] "GET /features HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2025 16:38:01] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+127.0.0.1 - - [28/Nov/2025 16:38:24] "GET / HTTP/1.1" 200 -

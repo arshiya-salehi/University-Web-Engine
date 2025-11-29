@@ -1,0 +1,73 @@
+
+================================================================================TESTING COMMANDS - TERMINAL AND WEB UI================================================================================
+
+STEP 1: VERIFY FEATURES IN TERMINAL
+--------------------------------------------------------------------------------
+
+Run the feature verification script:
+
+  cd M3/SRC
+  python verify_features.py ../index
+
+Expected output: Shows status of all core and extra-credit features
+
+STEP 2: START THE WEB SERVER
+--------------------------------------------------------------------------------
+
+Start the Flask web server (in one terminal):
+
+  cd M3/SRC
+  python web_search_m3.py --host 0.0.0.0 --port 5000
+
+Expected output:
+  - 'Loaded 1212 document mappings'
+  - 'Extra credit features loaded'
+  - 'Search engine ready!'
+  - 'Running on http://0.0.0.0:5000'
+
+STEP 3: TEST FEATURES ENDPOINT (in another terminal)
+--------------------------------------------------------------------------------
+
+Check which features are available:
+
+  curl http://localhost:5000/features | python -m json.tool
+
+Expected features (should show 'true'):
+  ✓ duplicate_detection
+  ✓ ngram_indexing
+  ✓ word_positions
+  ✓ pagerank
+  ○ anchor_text (disabled due to data issue)
+  ✓ hits
+
+STEP 4: TEST SEARCH ENDPOINT
+--------------------------------------------------------------------------------
+
+Test basic search functionality:
+
+  curl -X POST http://localhost:5000/search \
+    -H 'Content-Type: application/json' \
+    -d '{"query": "database", "top_k": 5}'
+
+Expected output: JSON with 5-10 ranked search results
+
+STEP 5: TEST INDIVIDUAL BUILDERS (OPTIONAL)
+--------------------------------------------------------------------------------
+
+Test each feature builder individually:
+
+  # Duplicates
+  python build_duplicates.py ../Data ../index
+
+  # N-grams
+  python build_ngrams.py ../Data ../index
+
+  # Word Positions
+  python build_positions.py ../Data ../index
+
+  # Anchor Text
+  python build_anchors.py ../Data ../index
+
+  # Link Analysis
+  python build_links.py ../Data ../index
+

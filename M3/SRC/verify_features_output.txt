@@ -1,0 +1,55 @@
+
+================================================================================
+FEATURE VERIFICATION REPORT
+================================================================================
+
+Index Directory: /Users/arshiyasalehi/Desktop/CS 121/Web-engine/Web-Engine/M3/index
+
+Core: Inverted Index (required)
+  ✓ inverted_index.json            POPULATED                 13.87 MB
+
+Core: Document Mapping (required)
+  ✓ doc_mapping.json               POPULATED                 237674 bytes
+
+Extra Credit #1: Duplicate Detection
+  ✓ duplicates.json                POPULATED                 76239 bytes
+
+Extra Credit #2: N-gram Indexing
+  ✓ bigram_index.json              POPULATED                 47.41 MB
+  ✓ trigram_index.json             POPULATED                 57.29 MB
+
+Extra Credit #3: Word Positions
+  ✓ word_positions.json            POPULATED                 325 bytes
+
+Extra Credit #4: Anchor Text
+  ✗ anchor_text_index.json         MISSING                   0 bytes
+
+Extra Credit #5: Link Analysis (PageRank & HITS)
+  ✓ pagerank.json                  POPULATED                 38888 bytes
+  ✓ hits.json                      POPULATED                 37 bytes
+
+================================================================================
+SUMMARY
+================================================================================
+✓ Core indices: COMPLETE
+✓ Extra-Credit features: 4/5 populated
+  ✓ Extra Credit #1: Duplicate Detection
+  ✓ Extra Credit #2: N-gram Indexing
+  ✓ Extra Credit #3: Word Positions
+  ○ Extra Credit #4: Anchor Text
+  ✓ Extra Credit #5: Link Analysis (PageRank & HITS)
+
+================================================================================
+RECOMMENDED NEXT STEPS
+================================================================================
+1. Core index ready ✓
+
+2. Build missing extra-credit features:
+   python build_anchors.py ../Data ../index
+
+3. Test the web search interface:
+   python web_search_m3.py
+   Then visit: http://127.0.0.1:5001
+
+================================================================================
+

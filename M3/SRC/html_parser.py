@@ -26,6 +26,7 @@ class HTMLParser:
             dict with keys:
                 - 'normal_text': list of normal text tokens
                 - 'important_text': list of important text tokens (from bold, headings, titles)
+                - 'links': list of (href, anchor_text) tuples
         """
         # Use BeautifulSoup with html.parser which handles broken HTML well
         soup = BeautifulSoup(html_content, 'html.parser')
@@ -36,6 +37,7 @@ class HTMLParser:
         
         normal_text = []
         important_text = []
+        links = []
         
         # Extract title
         title_tag = soup.find('title')
@@ -50,11 +52,19 @@ class HTMLParser:
         for bold in soup.find_all(['strong', 'b']):
             important_text.append(bold.get_text())
         
+        # Extract links (for anchor text indexing)
+        for link in soup.find_all('a', href=True):
+            href = link.get('href', '').strip()
+            anchor_text = link.get_text().strip()
+            if href and anchor_text:
+                links.append((href, anchor_text))
+        
         # Extract all other text (normal text)
         normal_text.append(soup.get_text())
         
         return {
             'normal_text': ' '.join(normal_text),
-            'important_text': ' '.join(important_text)
+            'important_text': ' '.join(important_text),
+            'links': links
         }
 

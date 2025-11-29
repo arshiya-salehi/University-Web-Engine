@@ -1,0 +1,39 @@
+Initializing M3 enhanced search engine...
+Loaded 53792 document mappings
+Loading extra credit features...
+  ✓ Duplicate detection loaded
+Extra credit features loaded
+
+Search engine ready!
+ * Serving Flask app 'web_search_m3'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.7:5001
+Press CTRL+C to quit
+127.0.0.1 - - [28/Nov/2025 12:37:32] "GET /features HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2025 12:42:34] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2025 12:42:39] "POST /search HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2025 12:42:43] "POST /search HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2025 12:42:46] "POST /search HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2025 12:42:49] "POST /search HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2025 12:58:02] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2025 12:58:06] "POST /search HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2025 12:58:09] "POST /search HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2025 13:07:05] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2025 13:07:08] "POST /search HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2025 13:07:10] "POST /search HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2025 13:07:12] "POST /search HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2025 13:07:14] "POST /search HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2025 13:08:03] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2025 13:08:06] "POST /search HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2025 13:08:07] "POST /search HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2025 13:08:09] "POST /search HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2025 13:08:11] "POST /search HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2025 13:09:28] "POST /search HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2025 15:35:21] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2025 15:35:24] "POST /search HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2025 15:35:26] "POST /search HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2025 15:35:28] "POST /search HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2025 15:35:29] "POST /search HTTP/1.1" 200 -

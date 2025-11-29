@@ -1,0 +1,33 @@
+
+================================================================================M3 SEARCH ENGINE - FEATURE IMPLEMENTATION SUMMARY================================================================================
+Generated: 2025-11-28 15:31:36
+
+FEATURE STATUS TABLE
+================================================================================
+| # | Feature | Status | File Size | Details |
+|---|---------|--------|-----------|--------|
+| 1 | Duplicate Detection | ✓ POPULATED | 74.5 KB | Extra Credit Feature |
+| 2a | N-gram: Bigrams | ✓ POPULATED | 47.41 MB | Extra Credit Feature |
+| 2b | N-gram: Trigrams | ✓ POPULATED | 57.29 MB | Extra Credit Feature |
+| 3 | Word Positions | ✓ POPULATED | 24.52 MB | Extra Credit Feature |
+| 4 | Anchor Text | ✗ STUB/EMPTY | 2 B | Extra Credit Feature |
+| 5a | Link Analysis: PageRank | ✓ POPULATED | 38.0 KB | Extra Credit Feature |
+| 5b | Link Analysis: HITS | ✗ STUB/EMPTY | 37 B | Extra Credit Feature |
+
+STATISTICS FROM POPULATED INDICES
+================================================================================
+
+Duplicate Detection:
+  - Exact duplicate groups: 0
+  - Near-duplicate pairs: 0
+
+N-Gram Indexing:
+  - Total unique bigrams: 142,465
+  - Total unique trigrams: 273,472
+
+Word Positions Tracking:
+  - Unique terms indexed: 13,126
+
+Link Analysis (PageRank & HITS):
+  - Documents with PageRank scores: 1,212
+

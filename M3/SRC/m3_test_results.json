@@ -1,7 +1,7 @@
 {
   "test_metadata": {
     "total_queries": 30,
-    "timestamp": "2025-11-15 17:37:55"
+    "timestamp": "2025-11-28 18:40:20"
   },
   "queries": {
     "cristina lopes": {
@@ -9,7 +9,7 @@
       "category": "good",
       "expected": "faculty profile",
       "num_results": 10,
-      "query_time_ms": 33.02502632141113,
+      "query_time_ms": 41.030168533325195,
       "results": [
         {
           "rank": 1,
@@ -68,7 +68,7 @@
       "category": "good",
       "expected": "ML research",
       "num_results": 10,
-      "query_time_ms": 34.56592559814453,
+      "query_time_ms": 33.72001647949219,
       "results": [
         {
           "rank": 1,
@@ -127,7 +127,7 @@
       "category": "good",
       "expected": "ACM related content",
       "num_results": 10,
-      "query_time_ms": 14.391899108886719,
+      "query_time_ms": 14.175891876220703,
       "results": [
         {
           "rank": 1,
@@ -186,7 +186,7 @@
       "category": "good",
       "expected": "MSWE program",
       "num_results": 10,
-      "query_time_ms": 59.59582328796387,
+      "query_time_ms": 54.342031478881836,
       "results": [
         {
           "rank": 1,
@@ -245,7 +245,7 @@
       "category": "good",
       "expected": "department info",
       "num_results": 10,
-      "query_time_ms": 25.941848754882812,
+      "query_time_ms": 21.38233184814453,
       "results": [
         {
           "rank": 1,
@@ -304,7 +304,7 @@
       "category": "good",
       "expected": "CS faculty",
       "num_results": 10,
-      "query_time_ms": 57.16586112976074,
+      "query_time_ms": 48.78807067871094,
       "results": [
         {
           "rank": 1,
@@ -363,7 +363,7 @@
       "category": "good",
       "expected": "grad programs",
       "num_results": 10,
-      "query_time_ms": 34.28292274475098,
+      "query_time_ms": 28.957843780517578,
       "results": [
         {
           "rank": 1,
@@ -422,7 +422,7 @@
       "category": "good",
       "expected": "undergrad courses",
       "num_results": 10,
-      "query_time_ms": 33.185720443725586,
+      "query_time_ms": 28.346776962280273,
       "results": [
         {
           "rank": 1,
@@ -481,7 +481,7 @@
       "category": "good",
       "expected": "research information",
       "num_results": 10,
-      "query_time_ms": 29.912233352661133,
+      "query_time_ms": 25.214195251464844,
       "results": [
         {
           "rank": 1,
@@ -540,7 +540,7 @@
       "category": "good",
       "expected": "admissions info",
       "num_results": 10,
-      "query_time_ms": 34.200191497802734,
+      "query_time_ms": 29.494047164916992,
       "results": [
         {
           "rank": 1,
@@ -599,7 +599,7 @@
       "category": "poor",
       "expected": "too common word",
       "num_results": 10,
-      "query_time_ms": 18.53799819946289,
+      "query_time_ms": 15.502214431762695,
       "results": [
         {
           "rank": 1,
@@ -658,7 +658,7 @@
       "category": "poor",
       "expected": "single letter",
       "num_results": 10,
-      "query_time_ms": 14.663934707641602,
+      "query_time_ms": 12.682914733886719,
       "results": [
         {
           "rank": 1,
@@ -717,7 +717,7 @@
       "category": "poor",
       "expected": "common word",
       "num_results": 10,
-      "query_time_ms": 20.34306526184082,
+      "query_time_ms": 17.651081085205078,
       "results": [
         {
           "rank": 1,
@@ -776,7 +776,7 @@
       "category": "poor",
       "expected": "too general",
       "num_results": 10,
-      "query_time_ms": 1.0650157928466797,
+      "query_time_ms": 0.9529590606689453,
       "results": [
         {
           "rank": 1,
@@ -835,7 +835,7 @@
       "category": "poor",
       "expected": "too general",
       "num_results": 10,
-      "query_time_ms": 18.588781356811523,
+      "query_time_ms": 17.379045486450195,
       "results": [
         {
           "rank": 1,
@@ -894,7 +894,7 @@
       "category": "poor",
       "expected": "ambiguous",
       "num_results": 10,
-      "query_time_ms": 0.6887912750244141,
+      "query_time_ms": 0.6029605865478516,
       "results": [
         {
           "rank": 1,
@@ -953,7 +953,7 @@
       "category": "poor",
       "expected": "too general",
       "num_results": 10,
-      "query_time_ms": 0.7281303405761719,
+      "query_time_ms": 0.6320476531982422,
       "results": [
         {
           "rank": 1,
@@ -1012,7 +1012,7 @@
       "category": "poor",
       "expected": "too general",
       "num_results": 10,
-      "query_time_ms": 1.0402202606201172,
+      "query_time_ms": 0.9129047393798828,
       "results": [
         {
           "rank": 1,
@@ -1071,7 +1071,7 @@
       "category": "poor",
       "expected": "too general",
       "num_results": 10,
-      "query_time_ms": 13.753890991210938,
+      "query_time_ms": 12.313127517700195,
       "results": [
         {
           "rank": 1,
@@ -1130,7 +1130,7 @@
       "category": "poor",
       "expected": "too general",
       "num_results": 10,
-      "query_time_ms": 0.8008480072021484,
+      "query_time_ms": 0.7100105285644531,
       "results": [
         {
           "rank": 1,
@@ -1189,7 +1189,7 @@
       "category": "challenging",
       "expected": "multi-term",
       "num_results": 10,
-      "query_time_ms": 30.160903930664062,
+      "query_time_ms": 32.11092948913574,
       "results": [
         {
           "rank": 1,
@@ -1248,7 +1248,7 @@
       "category": "challenging",
       "expected": "specific program",
       "num_results": 10,
-      "query_time_ms": 1.3790130615234375,
+      "query_time_ms": 1.1799335479736328,
       "results": [
         {
           "rank": 1,
@@ -1307,7 +1307,7 @@
       "category": "challenging",
       "expected": "research area",
       "num_results": 10,
-      "query_time_ms": 17.020225524902344,
+      "query_time_ms": 16.78013801574707,
       "results": [
         {
           "rank": 1,
@@ -1366,7 +1366,7 @@
       "category": "challenging",
       "expected": "HCI research",
       "num_results": 10,
-      "query_time_ms": 25.987625122070312,
+      "query_time_ms": 24.44291114807129,
       "results": [
         {
           "rank": 1,
@@ -1425,7 +1425,7 @@
       "category": "challenging",
       "expected": "specific courses",
       "num_results": 10,
-      "query_time_ms": 15.049934387207031,
+      "query_time_ms": 15.51198959350586,
       "results": [
         {
           "rank": 1,
@@ -1484,7 +1484,7 @@
       "category": "challenging",
       "expected": "phd info",
       "num_results": 5,
-      "query_time_ms": 15.892982482910156,
+      "query_time_ms": 17.14611053466797,
       "results": [
         {
           "rank": 1,
@@ -1518,7 +1518,7 @@
       "category": "challenging",
       "expected": "publications",
       "num_results": 10,
-      "query_time_ms": 13.92984390258789,
+      "query_time_ms": 15.045166015625,
       "results": [
         {
           "rank": 1,
@@ -1577,7 +1577,7 @@
       "category": "challenging",
       "expected": "internships",
       "num_results": 10,
-      "query_time_ms": 26.05414390563965,
+      "query_time_ms": 26.256322860717773,
       "results": [
         {
           "rank": 1,
@@ -1636,7 +1636,7 @@
       "category": "challenging",
       "expected": "financial aid",
       "num_results": 1,
-      "query_time_ms": 52.49786376953125,
+      "query_time_ms": 52.626848220825195,
       "results": [
         {
           "rank": 1,
@@ -1650,7 +1650,7 @@
       "category": "challenging",
       "expected": "alumni info",
       "num_results": 10,
-      "query_time_ms": 32.91010856628418,
+      "query_time_ms": 29.510021209716797,
       "results": [
         {
           "rank": 1,

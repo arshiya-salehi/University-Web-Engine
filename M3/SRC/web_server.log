@@ -1,0 +1,16 @@
+Initializing M3 enhanced search engine...
+Loaded 1212 document mappings
+Loading extra credit features...
+  ✓ Duplicate detection loaded
+  ✓ PageRank loaded
+  ✓ N-gram indexing loaded
+  ✓ Word positions loaded
+Extra credit features loaded
+
+Search engine ready!
+Starting web server on 0.0.0.0:5000 (debug=False)
+ * Serving Flask app 'web_search_m3'
+ * Debug mode: off
+Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
+On macOS, try disabling the 'AirPlay Receiver' service from System Preferences -> General -> AirDrop & Handoff.

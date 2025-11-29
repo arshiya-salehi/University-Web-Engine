@@ -1,0 +1,79 @@
+======================================================================
+EXTRA CREDIT #2: N-GRAM INDEXING (BIGRAMS & TRIGRAMS)
+======================================================================
+
+Found 55393 JSON files to process
+
+Processed 1000/55393 files... (Indexed: 0, Skipped: 1000)
+Processed 2000/55393 files... (Indexed: 0, Skipped: 2000)
+Processed 3000/55393 files... (Indexed: 0, Skipped: 3000)
+Processed 4000/55393 files... (Indexed: 0, Skipped: 4000)
+Processed 5000/55393 files... (Indexed: 0, Skipped: 5000)
+Processed 6000/55393 files... (Indexed: 0, Skipped: 6000)
+Processed 7000/55393 files... (Indexed: 0, Skipped: 7000)
+Processed 8000/55393 files... (Indexed: 0, Skipped: 8000)
+Processed 9000/55393 files... (Indexed: 0, Skipped: 9000)
+Processed 10000/55393 files... (Indexed: 0, Skipped: 10000)
+Processed 11000/55393 files... (Indexed: 0, Skipped: 11000)
+Processed 12000/55393 files... (Indexed: 825, Skipped: 11175)
+Processed 13000/55393 files... (Indexed: 1454, Skipped: 11546)
+Processed 14000/55393 files... (Indexed: 1961, Skipped: 12039)
+Processed 15000/55393 files... (Indexed: 1961, Skipped: 13039)
+Processed 16000/55393 files... (Indexed: 1961, Skipped: 14039)
+Processed 17000/55393 files... (Indexed: 1961, Skipped: 15039)
+Processed 18000/55393 files... (Indexed: 1961, Skipped: 16039)
+Processed 19000/55393 files... (Indexed: 1961, Skipped: 17039)
+Processed 20000/55393 files... (Indexed: 1961, Skipped: 18039)
+Processed 21000/55393 files... (Indexed: 1961, Skipped: 19039)
+Processed 22000/55393 files... (Indexed: 1961, Skipped: 20039)
+Processed 23000/55393 files... (Indexed: 1961, Skipped: 21039)
+Processed 24000/55393 files... (Indexed: 1961, Skipped: 22039)
+Processed 25000/55393 files... (Indexed: 1961, Skipped: 23039)
+Processed 26000/55393 files... (Indexed: 1961, Skipped: 24039)
+Processed 27000/55393 files... (Indexed: 1961, Skipped: 25039)
+Processed 28000/55393 files... (Indexed: 1961, Skipped: 26039)
+Processed 29000/55393 files... (Indexed: 1961, Skipped: 27039)
+Processed 30000/55393 files... (Indexed: 1961, Skipped: 28039)
+Processed 31000/55393 files... (Indexed: 1961, Skipped: 29039)
+Processed 32000/55393 files... (Indexed: 1961, Skipped: 30039)
+Processed 33000/55393 files... (Indexed: 1961, Skipped: 31039)
+Processed 34000/55393 files... (Indexed: 1961, Skipped: 32039)
+Processed 35000/55393 files... (Indexed: 1961, Skipped: 33039)
+Processed 36000/55393 files... (Indexed: 1961, Skipped: 34039)
+Processed 37000/55393 files... (Indexed: 1961, Skipped: 35039)
+Processed 38000/55393 files... (Indexed: 1961, Skipped: 36039)
+Processed 39000/55393 files... (Indexed: 1961, Skipped: 37039)
+Processed 40000/55393 files... (Indexed: 1961, Skipped: 38039)
+Processed 41000/55393 files... (Indexed: 1961, Skipped: 39039)
+Processed 42000/55393 files... (Indexed: 1961, Skipped: 40039)
+Processed 43000/55393 files... (Indexed: 1961, Skipped: 41039)
+Processed 44000/55393 files... (Indexed: 1961, Skipped: 42039)
+Processed 45000/55393 files... (Indexed: 1961, Skipped: 43039)
+Processed 46000/55393 files... (Indexed: 1961, Skipped: 44039)
+Processed 47000/55393 files... (Indexed: 1961, Skipped: 45039)
+Processed 48000/55393 files... (Indexed: 1961, Skipped: 46039)
+Processed 49000/55393 files... (Indexed: 1961, Skipped: 47039)
+Processed 50000/55393 files... (Indexed: 1961, Skipped: 48039)
+Processed 51000/55393 files... (Indexed: 1961, Skipped: 49039)
+Processed 52000/55393 files... (Indexed: 1961, Skipped: 50039)
+Processed 53000/55393 files... (Indexed: 1961, Skipped: 51039)
+Processed 54000/55393 files... (Indexed: 1961, Skipped: 52039)
+Processed 55000/55393 files... (Indexed: 1988, Skipped: 53012)
+
+✓ Processed 1988 documents (53405 skipped)
+
+Saving n-gram indices...
+Saved 142465 bigrams to ../index/bigram_index.json
+Saved 273472 trigrams to ../index/trigram_index.json
+
+======================================================================
+✓ N-GRAM INDEX COMPLETE!
+======================================================================
+
+Statistics:
+  - Total bigrams: 142465
+  - Total trigrams: 273472
+  - Total bigram postings: 737710
+  - Total trigram postings: 833878
+  - Bigram index file: ../index/bigram_index.json
+  - Trigram index file: ../index/trigram_index.json
