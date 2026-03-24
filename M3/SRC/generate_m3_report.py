@@ -17,6 +17,7 @@ from reportlab.lib.enums import TA_CENTER, TA_LEFT, TA_JUSTIFY
 def generate_m3_report(test_results_file='m3_test_results.json', 
                        output_file='milestone3_report_developer.pdf'):
     """Generate comprehensive M3 PDF report"""
+    index_dir = '../index'
     
     script_dir = os.path.dirname(os.path.abspath(__file__))
     test_results_path = os.path.join(script_dir, test_results_file)
@@ -221,6 +222,73 @@ def generate_m3_report(test_results_file='m3_test_results.json',
     
     story.append(PageBreak())
     
+    # Extra Credit Section
+    story.append(Paragraph("Extra Credit Features", heading_style))
+    story.append(Paragraph(
+        "In addition to the core search engine, several extra credit features were implemented to "
+        "enhance retrieval quality, ranking accuracy, and overall functionality. This section "
+        "provides a summary and statistics for each implemented feature.",
+        normal_style
+    ))
+    story.append(Spacer(1, 0.2*inch))
+
+    extra_credit_features = [
+        ("Duplicate Detection", "duplicates.json", 
+         "Detects both exact and near-duplicates. Exact duplicates are found using content hashing, "
+         "while near-duplicates are identified using Jaccard similarity on document shingle signatures. "
+         "This helps reduce redundancy in search results."),
+        ("N-Gram Indexing", "bigram_index.json", 
+         "Created separate indices for bigrams and trigrams. This allows for more accurate phrase-based "
+         "searches and can be used to boost scores for documents where query terms appear consecutively."),
+        ("Word Position Indexing", "word_positions.json", 
+         "The index was enhanced to store the exact positions of each term within a document. This information "
+         "is crucial for proximity scoring, giving higher ranks to documents where query terms appear closer together."),
+        ("Anchor Text Indexing", "anchor_text_index.json", 
+         "Anchor text from incoming links is indexed. While data sparsity limited its impact, the mechanism is in "
+         "place to leverage this powerful signal for ranking, treating anchor text as a third-party description of a page's content."),
+        ("Link Analysis (PageRank & HITS)", "pagerank.json", 
+         "Implemented both PageRank and HITS algorithms. PageRank provides a query-independent measure of a page's "
+         "importance, while HITS identifies authoritative pages for a given topic. These scores are integrated into the final ranking formula.")
+    ]
+
+    for title, filename, description in extra_credit_features:
+        story.append(Paragraph(f"<b>{title}</b>", subheading_style))
+        story.append(Paragraph(description, normal_style))
+        
+        filepath = os.path.join(index_dir, filename)
+        stats_text = "Statistics: "
+        if os.path.exists(filepath) and os.path.getsize(filepath) > 50:
+            try:
+                with open(filepath, 'r') as f:
+                    data = json.load(f)
+                if title == "Duplicate Detection":
+                    stats = data.get('statistics', {})
+                    stats_text += f"Found {stats.get('total_exact_duplicate_groups', 0)} exact duplicate groups and {stats.get('total_pages_with_near_duplicates', 0)} pages with near duplicates."
+                elif title == "N-Gram Indexing":
+                    bigrams = len(data)
+                    trigram_path = os.path.join(index_dir, 'trigram_index.json')
+                    trigrams = 0
+                    if os.path.exists(trigram_path):
+                        with open(trigram_path, 'r') as f:
+                            trigrams = len(json.load(f))
+                    stats_text += f"Indexed {bigrams:,} unique bigrams and {trigrams:,} unique trigrams."
+                elif title == "Word Position Indexing":
+                    stats_text += f"Stored positions for {len(data):,} unique terms."
+                elif title == "Anchor Text Indexing":
+                     stats_text += f"{len(data):,} pages have incoming anchor text."
+                elif title == "Link Analysis (PageRank & HITS)":
+                    stats_text += f"Calculated PageRank for {len(data):,} documents."
+            except (json.JSONDecodeError, TypeError):
+                 stats_text += "Index file is populated but could not be parsed for stats."
+        else:
+            stats_text += "Index file not found or is empty."
+        
+        story.append(Paragraph(f"<i>{stats_text}</i>", normal_style))
+        story.append(Spacer(1, 0.15*inch))
+
+
+    story.append(PageBreak())
+
     # Performance Metrics
     story.append(Paragraph("Performance Metrics", heading_style))
     
