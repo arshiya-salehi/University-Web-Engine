@@ -4,6 +4,8 @@ A full-stack academic web search engine that indexes tens of thousands of UCI IC
 
 ---
 
+![UI screenshot](M2/UI%20screen%20shot.png)
+
 ## Features
 
 - **Custom** inverted index for the full developer ICS corpus (∼56K pages, 88 subdomains) with on-disk storage and controlled memory usage.  
